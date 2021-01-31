@@ -1,0 +1,11 @@
+h1{color:#000000}
+body{background-color:#F6F2F2;}
+.header{background-color:#F3CFCF;}
+.grid{display:flex;flex-wrap:wrap;justify-content:space-evenly;}
+.grid img{border: 2px solid #000000;border-radius:50px;}
+.origami{border-radius: 20px;background-color:#FFFFFF;width: 310px;font-family:fantasy;}
+.navigation{padding-left:30px;padding-bottom:10px}
+.grid {margin-top: 25px;}
+.grid img{border:solid;border-radius: 10px;}
+.origami {border:solid;margin-top: 25px;margin-left:100px;margin-right:100px;padding:25px;}
+.origami li{font-size:18px;font-family:'Times New Roman', Times, serif;}
